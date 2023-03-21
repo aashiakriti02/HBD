@@ -1,2 +1,2 @@
 # HBD
-This site can be visible here - rawgit.com/aashiakriti02/HBD/master/index.html
+This site can be visible here - http://rawgit.com/aashiakriti02/HBD/master/index.html

@@ -151,8 +151,8 @@ img {
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    bottom: 40px;
-    right: 20px;
+    bottom: 140px;
+    left: 80px;
 }
 
 .button-53:focus {
@@ -197,8 +197,8 @@ img {
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    bottom: 40px;
-    left: 20px;
+    bottom: 80px;
+    left: 80px;
 }
 
 .button-52:focus {
@@ -232,4 +232,11 @@ img {
         padding: .75rem 3rem;
         font-size: 1.25rem;
     }
+}
+
+.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
